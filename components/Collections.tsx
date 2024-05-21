@@ -22,8 +22,8 @@ const Collections = async () => {
                 width={350}
                 height={200}
                 className="object-cover 
-                h-full 
-                w-full 
+                h-2
+                w-2
                 group-hover:scale-110 
                 transition"
               />
